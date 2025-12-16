@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian 캐시/임시파일 (있으면)
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/workspaces/
+.trash/
